@@ -1,6 +1,6 @@
-<h1 align="center">System.out.println("I'm Ayda🌝");
-
-<h3 align="center">I am looking forward to developing Java and producing a project. Despite everything, the thing I want most is to take a step into the gaming industry.</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=blinking&type=waving&color=gradient&height=100"/>
+</p>
 
 - 🌱 I’m currently learning **Java**
 
