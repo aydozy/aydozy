@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/104395137/186489503-c9ac324a-b18d-45b3-bcb5-27f6724b3876.gif" width="250" height="200">
+<img src="https://media.giphy.com/media/S601SPRAnC7iIzYOqG/giphy.gif" width="250" height="200">
 </p>
 
 - 🌱 I’m currently learning **Java**
