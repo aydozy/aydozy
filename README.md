@@ -37,7 +37,7 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45" />
 </p>
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?aydozy&show_icons=true&theme=gradient)
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=aydozy&show_icons=true&theme=gradient)
 
 ![snake gif](https://github.com/aydozy/aydozy/blob/output/github-contribution-grid-snake.svg)
 
