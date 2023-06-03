@@ -21,7 +21,7 @@
 </p>
 
 - 🌱 I’m currently learning **Java**
-- 👨‍💻 I'm interested in Game Development.
+- 👨‍💻 I'm interested in Game Development and Android Mobile App Development 
 - 📫 How to reach me **ozyurek.aydanil@gmail.com**
 
 
