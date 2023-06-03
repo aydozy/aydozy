@@ -20,7 +20,7 @@
 <img src="https://media.giphy.com/media/S601SPRAnC7iIzYOqG/giphy.gif" width="250" height="200">
 </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java** and **Android Studio**
 - 👨‍💻 I'm interested in Game Development and Android Mobile App Development 
 - 📫 How to reach me **ozyurek.aydanil@gmail.com**
 
