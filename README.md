@@ -6,7 +6,8 @@
 
 <h2 align="center"> A passionate Android Developer </h2>
 
-<img src="https://github.com/aydozy/aydozy/assets/104395137/60a8d732-1936-4907-8513-d5cb284db05f" alt = "gif" align = "right" width="400" >
+<img src="https://github.com/aydozy/aydozy/assets/104395137/9f897dbc-2797-45ec-b4c3-c6629a05d848" alt = "gif" align = "right" width="400" >
+
 
 
 
