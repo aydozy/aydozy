@@ -4,7 +4,7 @@
 <h1 align="center">  
 <img src="https://github.com/aydozy/aydozy/assets/104395137/9398e074-f73c-4ae4-90af-6e3cb4a5e4b9" alt="gif" width="800" height="540"></h1>
 
-<h2 align="center"> A passionate Android Developer </h2>
+<h2 align="center"> A passionate Mobile Developer </h2>
 
 <img src="https://github.com/aydozy/aydozy/assets/104395137/9f897dbc-2797-45ec-b4c3-c6629a05d848" alt = "gif" align = "right" width="400" >
 
@@ -13,7 +13,7 @@
 
  - Hey all! I'm a 4th year CS student. I'm interested in app development and backend.
    
- - I'm currently working on `Java`, `Kotlin`, and `Android Studio`.
+ - I'm currently working on `Java`, `Kotlin`, `Flutter` and `Android Studio`.
 
  - You can reach me from here: ozyurek.aydanil@gmail.com
 
