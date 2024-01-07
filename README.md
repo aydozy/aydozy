@@ -1,5 +1,5 @@
 <h1 align="center">  
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lora&weight=500&size=30&pause=1000&color=3E204A&center=true&repeat=false&width=435&lines=Hey!+I'm+Ayda.." alt="Typing SVG" /></a></a></h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lora&weight=500&size=30&pause=1000&color=F0CB87&center=true&repeat=false&width=435&lines=Hey!+I'm+Ayda.." alt="Typing SVG" /></a></a></h1>
 
 <h1 align="center">  
 <img src="https://github.com/aydozy/aydozy/assets/104395137/14c26c4f-15a2-4738-9bed-27478fa1085f" alt = "gif" width="900" height="540" ></h1>
