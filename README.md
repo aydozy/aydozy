@@ -1,12 +1,13 @@
 <h1 align="center">  
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lora&weight=500&size=30&pause=1000&color=F0CB87&center=true&repeat=false&width=435&lines=Hey!+I'm+Ayda.." alt="Typing SVG" /></a></a></h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lora&weight=500&size=30&pause=1000&color=C5ADA8&center=true&repeat=false&width=435&lines=Hey!+I'm+Ayda.." alt="Typing SVG" /></a></a></h1>
 
 <h1 align="center">  
-<img src="https://github.com/aydozy/aydozy/assets/104395137/14c26c4f-15a2-4738-9bed-27478fa1085f" alt = "gif" width="900" height="540" ></h1>
+<img src="https://github.com/aydozy/aydozy/assets/104395137/0fd7d529-e40b-45ae-98ab-f2fcd2d8f102" alt = "gif" width="700" height="440" ></h1>
+
+
+
 
 <h2 align="center"> A passionate Mobile Developer </h2>
-<img src="https://github.com/aydozy/aydozy/assets/104395137/9f897dbc-2797-45ec-b4c3-c6629a05d848" alt = "gif" align = "right" width="400" >
-
 
  - Hey all! I'm a 4th year CS student. I'm interested in app development and backend.
    
