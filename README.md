@@ -9,9 +9,9 @@
 
 <h2 align="center"> A passionate Mobile Developer </h2>
 
- - Hey all! I'm a 4th year CS student. I'm interested in app development and backend.
+ - Hey all! I'm a mobile developer. 
    
- - I'm currently working on `Java`, `Kotlin`, `Flutter` and `Android Studio`.
+ - I'm currently working on `Dart`/ `Flutter`.
 
  - You can reach me from here: ozyurek.aydanil@gmail.com
 
