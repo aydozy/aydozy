@@ -6,7 +6,7 @@
 
 ## About Me
 
-- Mobile Application Developer with **1.5 years of experience**, focused on Flutter-based products  
+- Mobile Application Developer with **2 years of experience**, focused on Flutter-based products  
 - Working primarily with **Dart & Flutter** to build scalable, maintainable, and user-friendly apps  
 - I care deeply about **clean UI**, **smooth UX**, and **performance-conscious** mobile development  
 - Continuously learning and improving my approach to architecture and product quality  
