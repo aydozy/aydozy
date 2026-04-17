@@ -5,7 +5,7 @@
 > Mobile Application Developer focused on Flutter, clean architecture, and thoughtful user experiences.
 
 ## My Apps
-**Artium — AI Art Generator** | [App Store Link](https://apps.apple.com/tr/app/artium-ai-art-generator/id6760351905)
+**Artium — AI Art Generator** | [App Store Link](https://apps.apple.com/tr/app/artium-ai-art-generator/id6760351905) | [Check The Website](https://aydozy.github.io/artium-app/)
 
 <img width="100%" alt="artium-showcase" src="https://github.com/user-attachments/assets/65ecbf65-2eca-4fea-a01b-7928e0d482bd" />
 
