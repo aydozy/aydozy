@@ -13,6 +13,14 @@
 into stunning artwork in seconds. Choose from Surreal, Renaissance, 
 Cubism, Baroque and more artistic styles.
 
+---
+
+**Popcorn — Movie Discovery App** | [Check The Website](https://aydozy.github.io/popcorn-web/) | [GitHub Repo](https://github.com/aydozy/popcorn)
+
+<img width="100%" alt="popcorn-showcase" src="https://github.com/user-attachments/assets/e335f20d-21ce-4463-80d4-c6d75d177566" />
+
+**Popcorn** is a cozy, dark-mode movie discovery app built in Flutter. Browse trending films, search thousands of titles, dive into movie details with cast and similar recommendations, and build a personal watchlist — all powered by TMDB.
+
  
 
 ## About Me
