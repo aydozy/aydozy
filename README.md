@@ -41,6 +41,3 @@ Reach me: ozyurek.aydanil@gmail.com
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="28" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="28" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="28" />
-
-## Github Status 
-![aydozy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=aydozy&theme=gotham&hide_border=true)
