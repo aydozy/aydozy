@@ -19,7 +19,7 @@ Cubism, Baroque and more artistic styles.
 
 <img width="100%" alt="popcorn-showcase" src="https://github.com/user-attachments/assets/e335f20d-21ce-4463-80d4-c6d75d177566" />
 
-**Popcorn** is a cozy, dark-mode movie discovery app built in Flutter. Browse trending films, search thousands of titles, dive into movie details with cast and similar recommendations, and build a personal watchlist — all powered by TMDB.
+**Popcorn** is a cozy, dark-mode movie discovery app built in Flutter. Browse trending films, search thousands of titles, dive into movie details with cast and similar recommendations, and build a personal watchlist all powered by TMDB.
 
  
 
